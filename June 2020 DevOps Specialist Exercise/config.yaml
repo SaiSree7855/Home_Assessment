@@ -1,0 +1,5 @@
+url:
+    prefix: https
+    host: localhost
+    path: health
+    port: 5001
